@@ -1,3 +1,3 @@
-export function test() {
-    alert('Test');
+export function sayHi() {
+    alert('Hello world!');
 }
